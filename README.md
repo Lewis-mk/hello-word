@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 # Learning Git
 This is for learing git and github purpose only, no useful reason.
 
+# pull, fetch and merge 
+this are some of the commands in git while updating the local and remote repository.
